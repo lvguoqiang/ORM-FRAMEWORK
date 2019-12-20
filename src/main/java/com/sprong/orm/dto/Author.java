@@ -1,4 +1,4 @@
-package com.sprong.jdbc.dto;
+package com.sprong.orm.dto;
 
 import lombok.Data;
 

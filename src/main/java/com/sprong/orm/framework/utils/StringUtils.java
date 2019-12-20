@@ -1,4 +1,4 @@
-package com.sprong.jdbc.framework.utils;
+package com.sprong.orm.framework.utils;
 
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;

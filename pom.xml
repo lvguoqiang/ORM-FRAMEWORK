@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.sprong</groupId>
-    <artifactId>jdbc</artifactId>
+    <artifactId>orm-framework</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <name>jdbc</name>
-    <description>jdbc练习</description>
+    <name>orm</name>
+    <description>orm框架</description>
 
     <properties>
         <java.version>1.8</java.version>

@@ -1,4 +1,4 @@
-package com.sprong.jdbc.service;
+package com.sprong.orm.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

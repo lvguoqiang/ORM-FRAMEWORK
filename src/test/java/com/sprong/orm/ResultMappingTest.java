@@ -1,9 +1,9 @@
-package com.sprong.jdbc;
+package com.sprong.orm;
 
-import com.sprong.jdbc.dto.Author;
-import com.sprong.jdbc.framework.ResultMapping;
-import com.sprong.jdbc.framework.ResultMappingImpl;
-import com.sprong.jdbc.service.DBManager;
+import com.sprong.orm.dto.Author;
+import com.sprong.orm.framework.ResultMapping;
+import com.sprong.orm.framework.ResultMappingImpl;
+import com.sprong.orm.jdbc.DBManager;
 import org.junit.Test;
 
 import java.sql.Connection;

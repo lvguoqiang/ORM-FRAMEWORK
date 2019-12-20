@@ -88,7 +88,7 @@ ResultSet result = statement.executeQuery();
 ### 1.1.3 获取JDBC连接简单封装
 
 > 获取连接和获取Statement是每个SQL都需要的，这里简单封装一下
-> 见 com.sprong.jdbc.service.DBManager
+> 见 com.sprong.orm.jdbc.DBManager
 
 ### 1.1.4 ResultSet处理
 
@@ -107,7 +107,7 @@ ResultSet result = statement.executeQuery();
 
   通过这些API我们就可以对结果集进行处理
 
-`com.sprong.jdbc.framework.ResultMapping`
+`com.sprong.orm.framework.ResultMapping`
 
 # 2. 版本介绍
 ## 2.1 1.0.0

@@ -1,8 +1,7 @@
-package com.sprong.jdbc;
+package com.sprong.orm;
 
-import com.mysql.cj.MysqlType;
-import com.sprong.jdbc.dto.Author;
-import com.sprong.jdbc.service.DBManager;
+import com.sprong.orm.dto.Author;
+import com.sprong.orm.jdbc.DBManager;
 import org.junit.Assert;
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
-package com.sprong.jdbc.framework;
+package com.sprong.orm.framework;
 
-import com.sprong.jdbc.framework.utils.StringUtils;
+import com.sprong.orm.framework.utils.StringUtils;
 import lombok.extern.slf4j.Slf4j;
 
 import java.lang.reflect.Field;

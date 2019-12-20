@@ -1,6 +1,8 @@
-package com.sprong.jdbc.dto;
+package com.sprong.orm.dto;
 
 import lombok.Data;
+
+import java.util.List;
 
 /**
  * @author: guoqiang.lv
@@ -8,10 +10,8 @@ import lombok.Data;
  * @description:
  */
 @Data
-public class Post {
+public class Blog {
     private Integer id;
     private Author author;
-    private String content;
-
-    private Long authorId;
+    private List<Post> posts;
 }

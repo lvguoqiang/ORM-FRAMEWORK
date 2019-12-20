@@ -1,4 +1,4 @@
-package com.sprong.jdbc.framework;
+package com.sprong.orm.framework;
 
 import java.sql.ResultSet;
 import java.util.List;
