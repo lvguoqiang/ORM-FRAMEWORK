@@ -107,7 +107,7 @@ ResultSet result = statement.executeQuery();
 
   通过这些API我们就可以对结果集进行处理
 
-`com.sprong.orm.framework.ResultMapping`
+`com.sprong.orm.framework.mapping.ResultMapping`
 
 # 2. 版本介绍
 ## 2.1 1.0.0

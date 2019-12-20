@@ -1,8 +1,8 @@
 package com.sprong.orm;
 
 import com.sprong.orm.dto.Author;
-import com.sprong.orm.framework.ResultMapping;
-import com.sprong.orm.framework.ResultMappingImpl;
+import com.sprong.orm.framework.mapping.ResultMapping;
+import com.sprong.orm.framework.mapping.ResultMappingImpl;
 import com.sprong.orm.jdbc.DBManager;
 import org.junit.Test;
 

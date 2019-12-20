@@ -1,5 +1,6 @@
-package com.sprong.orm.framework;
+package com.sprong.orm.framework.mapping;
 
+import com.sprong.orm.framework.mapping.ResultMapping;
 import com.sprong.orm.framework.utils.StringUtils;
 import lombok.extern.slf4j.Slf4j;
 
